@@ -22,7 +22,7 @@
             <div class="col col-md-8 d-flex flex-column align-items-center">
                 <a class="anchor" id="kurs-ogolny"></a>
                 <h1>Kurs <i>Rosyjski ogólny</i></h1>
-                <h5>Dla młodzierzy i dorosłych</h5>
+                <h5>Dla młodzieży i dorosłych</h5>
                 <p class="mt-3">
                 Kurs obejmuje dwa semestry spotkań i przeznaczony jest dla osób na różnych poziomach, od A1 – C2. Zakres tematyczny to zagadnienia życia codziennego. Na zajęciach rozwijane są wszystkie cztery sprawności językowe. Kurs zawiera także blok lekcji realio- i kulturoznawczych.
                 </p>
