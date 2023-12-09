@@ -16,13 +16,13 @@
 .navbar-light .navbar-nav .nav-link {
     color: black;
     fill: black;
+    outline: none;
+    box-shadow: none;
 }
 
 .nav-masza-logo {
     background-color: white;
     border-radius: 10px;
-    margin-bottom: .25rem;
-    margin-top: .25rem;
 }
 
 section:nth-child(even) { 

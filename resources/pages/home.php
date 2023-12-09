@@ -1,30 +1,49 @@
+<div class="container-fluid">
+    <div class="row">
+        <!-- Welcome Section on the Left -->
+        <div class="col-md-6">
+            <section id="Welcome">
+                <div class="container-fluid text-center">
+                    <div class="row">
+                        <div class="col">
+                            <img src="img/main.JPG" class="d-block masza-main-banner">
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
 
-<section id="Welcome">
-    <div class="container-fluid text-center">
-        <div class="row">
-            <div class="col">
-                <img src="img/main.JPG" class="d-block masza-main-banner">
-            </div>
+        <!-- Contact Section on the Right -->
+        <div class="col-md-6">
+            <section id="Contact">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col">
+                            <p><strong>Jeśli nie nienawidzisz Putina, a kochasz Puszkina i Czajkowskiego, zapraszamy!</strong></p>
+                            <ul>
+                                <li>stanowczo sprzeciwiamy się reżimowi rosyjskiemu</li>
+                                <li>Podróżujemy po krajach Wschodu</li>
+                                <li>Uczymy rosyjskiego, bo język nie ma nic wspólnego z Wojną przez duże „W”</li>
+                                <li>Szerzymy kulturę polską poza naszymi granicami</li>
+                                <li>Kultywujemy kulturę, historię, kuchnię i sztukę Wschodu</li>
+                                <li>Dbamy o język rosyjski, ukraiński oraz polski</li>
+                                <li>Wierzymy w pokój na świecie</li>
+                                <li>Jesteśmy obiektywni</li>
+                                <li>Pierogi ruskie nie mają nic wspólnego z Rosją</li>
+                                <li>Rosyjski jest językiem pomocy dla armii ukraińskiej i uchodźców</li>
+                                <li>Bułhakow urodził się na Ukrainie</li>
+                                <li>Traktujemy rosyjski jako język przeciwko Putinowi i Łukaszence</li>
+                            </ul>
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
     </div>
-</section> 
-<!-- 
-<section id="Teachers" class="p-0 p-md-3">
-    <div class="container">
-        <div class="row p-md-3 p-0">
-            <div class="col-12 col-md-6">
-                <img class="img-fluid img-circle d-block p-3 m-auto" src="/img/teachers/Joanna.jpg"/>
-            </div>
-            <div class="col col-md-6 d-flex flex-column align-items-center">
-                <h1 class="mb-3">Joanna</h1>
-                <p>
-                Nazywam się Joanna Połonczyk i jestem założycielką CJR Masza, nauczycielem, tłumaczem, wykładowcą, metodykiem, pedagogiem terapii pedagogicznej, trenerem efektywnej nauki i szybkiego czytania, współorganizatorem kolonii dla dzieci i młodzieży. Rosja jest moim drugim domem i bez niej moje życie straciłoby swoją magię. Prywatnie Mama, zakochana w języku hiszpańskim, bieganiu, żeglarstwie i wycieczkach na żółtym rowerze.
-                </p>
-            </div>
-        </div>
-    </div>
-</section>
--->
+</div>
+
 
 <section id="AboutUs">
     <div class="container-fluid">
